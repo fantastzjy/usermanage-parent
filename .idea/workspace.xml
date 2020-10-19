@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3222ed32-5cb1-4591-8283-a1f567c38c1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../DeveloperTools/apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iRN33TrrWk9GvnUWnZErSIMWK7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3222ed32-5cb1-4591-8283-a1f567c38c1a" name="Default Changelist" comment="" />
+      <created>1601866243051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601866243051</updated>
+      <workItem from="1601866245184" duration="241000" />
+      <workItem from="1603092377676" duration="120000" />
+      <workItem from="1603092640755" duration="1456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="245" key="FileChooserDialogImpl" timestamp="1603094118352">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="829" y="245" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603094118352" />
+    <state x="1017" y="420" key="Github.CreateGistDialog" timestamp="1603094093598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1017" y="420" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603094093598" />
+    <state x="505" y="153" width="1179" height="711" key="SettingsEditor" timestamp="1603094121721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="153" width="1179" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603094121721" />
+  </component>
+</project>

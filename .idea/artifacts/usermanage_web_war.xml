@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="usermanage-web:war">
+    <output-path>$PROJECT_DIR$/usermanage-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>usermanage-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="usermanage-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="usermanage-web:war exploded" />
+    </root>
+  </artifact>
+</component>

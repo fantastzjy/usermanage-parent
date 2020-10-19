@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/usermanage-mapper/usermanage-mapper.iml" filepath="$PROJECT_DIR$/usermanage-mapper/usermanage-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermanage-parent.iml" filepath="$PROJECT_DIR$/usermanage-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermanage-service/usermanage-service.iml" filepath="$PROJECT_DIR$/usermanage-service/usermanage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermanage-web/usermanage-web.iml" filepath="$PROJECT_DIR$/usermanage-web/usermanage-web.iml" />
+    </modules>
+  </component>
+</project>
