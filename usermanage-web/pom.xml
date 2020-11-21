@@ -13,7 +13,6 @@
 
 	<dependencies>
 
-
 		<dependency>
 			<groupId>com.atguigu</groupId>
 			<artifactId>usermanage-service</artifactId>
